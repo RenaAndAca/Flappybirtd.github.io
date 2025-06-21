@@ -1,1 +1,5 @@
-# Flappybirtd.github.io
+# Flappy-Bird-Game with JavaScript
+
+
+---
+**Developed by Renei**
